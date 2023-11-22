@@ -10,7 +10,7 @@
 - [ ] How has your relationships with the mentees and mentors impacted you as a student? As a person? As a leader?
 - [ ] What did I do to support my mentees’ learning?
 - [ ] What has this experience made you think about that you had not previously?
-- [ ] How do you think we can better serve the mentees? Mentors?
+- [ ]  How do you think we can better serve the mentees? Mentors?
 - [ ] If we did this again, how could you better support the mentees? Mentors?
 - [ ] Did the relationship you had with the mentees help or hinder your effectiveness?
 - [ ] In what ways can you improve as a mentor?
