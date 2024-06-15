@@ -6,7 +6,6 @@ repos:
       - id: check-yaml
       - id: end-of-file-fixer
         types: [python]
-      - id: trailing-whitespace
       - id: requirements-txt-fixer
       - id: check-added-large-files
         args: ["--maxkb=500"]
