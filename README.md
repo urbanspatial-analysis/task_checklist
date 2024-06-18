@@ -1,14 +1,14 @@
 # task_checklist
 
 
-Serve a checklist through pull request
+Serve a checklist through the pull request
 
 
 ## Usage 
-- create a checklist file in task folder
-- create a pull request with full checklist and information
-- After finish, pull request will be merged and work as archive
+- create a checklist file in the task folder
+- create a pull request with a full checklist and information
+- After finishing, the pull request will be merged and work as an archive
 
 
 ## Example
-- look through pull request
+- look through a pull request
