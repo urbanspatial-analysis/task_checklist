@@ -8,3 +8,4 @@
 - [ ] Climate AI revisit
 - [ ] ESRI product learning (revisit)
 - [ ] Graphic design basic
+- [ ] Linux learning
