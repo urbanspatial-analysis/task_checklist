@@ -1,0 +1,7 @@
+- [ ] read the plan
+- [ ] read the plan 2
+- [ ] come up argument
+- [ ] writing
+- [ ] reference
+- [ ] finish up
+- [ ] submit
