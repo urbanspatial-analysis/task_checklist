@@ -15,7 +15,8 @@ jobs:
       uses: tibdex/github-app-token@v1
       with:
         reviewers: |
-          - gisyzc
           - zyang91
+          - gisyzc
+        
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
