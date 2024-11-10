@@ -1,24 +1,8 @@
-
-name: Auto Assign Reviewers
-
-on:
-  pull_request:
-    types: [opened]
+name: 'Auto Assign'
+on: pull_request
 
 jobs:
-  auto-assign:
+  add-reviews:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Check out repository
-      uses: actions/checkout@v3
-
-    - name: Auto Assign Reviewers
-      uses: kentaro-m/auto-assign-action@v1
-      with:
-        addReviewers: true
-        reviewers: |
-          gisyzc
-          zyang91
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: kentaro-m/auto-assign-action@v2.0.0
