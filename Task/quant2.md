@@ -1,8 +1,0 @@
-- [ ] Data Prep
-- [ ] Part 1
-- [ ] Part 2
-- [ ] Extra Credit
-- [ ] Write up
-- [ ] Memo
-- [ ] Revise & revisit
-- [ ] Submit
