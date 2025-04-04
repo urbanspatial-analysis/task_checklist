@@ -6,3 +6,6 @@
 - [ ] Multimodal final project proposal 3/28
 - [ ] Memo 2 4/9
 - [ ] Thesis proposal (Discussed with Erick) 4/21
+- [ ] PPA Assignment 4 4/11
+- [ ] Drafted text for assignment 4 (Studio) 4/8
+- [ ] Final version for assignment 4 (studio) 4/14
