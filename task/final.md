@@ -1,7 +1,0 @@
-- [ ] Thesis proposal final version
-- [ ] Case writing due 5/12
-- [ ] presentation (studio) 5/8
-- [ ] Studio book due 5/13
-- [ ] Statistics assignment 3 submission
-- [ ] assignment 4 submission
-- [ ] assignment 5 submission
