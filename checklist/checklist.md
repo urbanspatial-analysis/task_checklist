@@ -6,6 +6,7 @@
 - [ ] Vissim lab 1
 - [ ] Anchor Institution data processing
 - [ ] Observation + memo
+- [ ] Videos for JS
 
 ### Long Term
 - [ ] Literature Review (readings)
