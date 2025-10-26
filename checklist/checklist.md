@@ -3,7 +3,7 @@
 ### Assignment
 - [ ] Dashboard begin
 - [ ] Vissim lab 1
-- [ ] Observation notes 
+- [ ] Observation notes
 - [ ] Observation + memo
 - [ ] Interview transcripts
 - [ ] Interview Memo
