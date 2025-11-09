@@ -16,4 +16,3 @@
 - [ ] JS Dashboard project
 - [ ] JS engagement project (addition to Dashboard)
 - [ ] Final thesis proposal
-- [ ] 30-day map challenge
