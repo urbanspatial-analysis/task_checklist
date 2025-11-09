@@ -1,14 +1,18 @@
-## Week Oct 26 Checklist
+## Week Oct 31 Checklist
 
 ### Assignment
-- [ ] Dashboard begin
-- [ ] Vissim lab 1
-- [ ] Observation notes
-- [ ] Observation + memo
-- [ ] Interview transcripts
+- [ ] Dashboard data pre-processing
+- [ ] Anchor Institution Data lists to Tony
+- [ ] Scyno lab
 - [ ] Interview Memo
-- [ ] Videos for JS
+- [ ] GIS day talk slides
+- [ ] GIS day talk demo 1
+- [ ] GIS day talk demo 2
+- [ ] 30 day map challenge (day 7-15)
+
 
 ### Long Term
 - [ ] Literature Review (readings)
+- [ ] JS Dashboard project
+- [ ] JS engagement project (addition to Dashboard)
 - [ ] Final thesis proposal
