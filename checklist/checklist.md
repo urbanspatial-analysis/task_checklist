@@ -2,7 +2,6 @@
 
 ### Assignment
 - [ ] Dashboard data pre-processing
-- [ ] Anchor Institution literature
 - [ ] Anchor Institution Data lists to Tony
 - [ ] Vissim lab
 - [ ] Scyno lab
