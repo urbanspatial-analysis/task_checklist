@@ -8,7 +8,7 @@
 - [ ] GIS day talk slides
 - [ ] GIS day talk demo 1
 - [ ] GIS day talk demo 2
-- [ ] 30 day map challenge (day 1-5)
+- [ ] 30 day map challenge (day 7-15)
 
 
 ### Long Term
