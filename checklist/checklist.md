@@ -3,7 +3,6 @@
 ### Assignment
 - [ ] Dashboard data pre-processing
 - [ ] Anchor Institution Data lists to Tony
-- [ ] Vissim lab
 - [ ] Scyno lab
 - [ ] Interview Memo
 - [ ] GIS day talk slides
