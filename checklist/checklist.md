@@ -1,18 +1,16 @@
-## Week Nov 9 Checklist
+## Week Dec 1 Checklist
 
 ### Assignment
-- [ ] Scyno lab
-- [ ] Interview Memo
-- [ ] GIS day talk slides
-- [ ] GIS day talk demo 1
-- [ ] GIS day talk SEPTA service cut (slides)
-- [ ] GIS day talk SEPTA service cut (Analysis)
-- [ ] 30 day map challenge (day 7-15)
+- [ ] Scyno lab (write-up)
 - [ ] Anchor Institutions assignment (in box) -mapping
-
-
-### Long Term
-- [ ] Literature Review (readings)
-- [ ] JS Dashboard project
-- [ ] JS engagement project (addition to Dashboard)
+- [ ] Thesis proposal presentation
 - [ ] Final thesis proposal
+- [ ] JS engagement project
+- [ ] JS presentation
+
+
+### Long Term (thesis, Winter)
+- [ ] Literature Review (readings)
+- [ ] Dqta cleaning (NHTS)
+- [ ] Model buildings
+- [ ] Final theis writing starts
